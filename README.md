@@ -1,7 +1,8 @@
 # PRACTICA2: Limpieza y validación de los datos
 
 
-
+## Miembros del equipo
+La práctica ha sido realizada de forma individual por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
 
 
 
