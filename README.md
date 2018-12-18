@@ -1,4 +1,4 @@
-# PRACTICA2: Limpieza y validación de los datos
+# PRÁCTICA 2: Limpieza y validación de los datos
 
 
 ## Miembros del equipo
