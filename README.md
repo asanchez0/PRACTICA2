@@ -2,7 +2,7 @@
 
 
 ## Miembros del equipo
-La práctica ha sido realizada de forma individual por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
+La práctica ha sido realizada de forma individual y en su totalidad por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
 
 
 
