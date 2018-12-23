@@ -8,6 +8,9 @@ La práctica ha sido realizada de forma individual y en su totalidad por el alum
 Esta es la segunda práctica correspondiente a la asignatura <b>Tipología y ciclo de vida de los datos</b> del <b>máster en Ciencia de Datos</b> impartido por la Universitat Oberta de catalunya (UOC). En ella, se elabora un caso práctico orientado a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de los mismos
 
 ## Descripción
+El objetivo de esta actividad es el tratamiento de un dataset libre disponible en Kaggle llamado <i><b>Red Wine Quality</b></i> (https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009).
+
+
 
 
 
