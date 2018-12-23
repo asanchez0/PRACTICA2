@@ -5,7 +5,7 @@
 La práctica ha sido realizada de forma individual y en su totalidad por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
 
 ## Presentación
-Esta es la segunda práctica correspondiente a la asignatura <b>Tipología y ciclo de vida de los datos</b> del <b>máster en Ciencia de Datos</> impartido por la Universitat Oberta de catalunya (UOC). 
+Esta es la segunda práctica correspondiente a la asignatura <b>Tipología y ciclo de vida de los datos</b> del <b>máster en Ciencia de Datos</b> impartido por la Universitat Oberta de catalunya (UOC). 
 
 En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos
 relevantes para un proyecto analítico y usar las herramientas de integración, limpieza,
