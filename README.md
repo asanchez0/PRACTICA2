@@ -1,6 +1,5 @@
 # PRÁCTICA 2: Limpieza y validación de los datos
 
-
 ## Miembros del equipo
 La práctica ha sido realizada de forma individual y en su totalidad por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
 
@@ -31,7 +30,18 @@ conclusiones? ¿Los resultados permiten responder al problema?
 limpieza, análisis y representación de los datos. Si lo preferís, también podéis trabajar
 en Python.
 
+## Recursos
+Los siguientes recursos han sido útiles para la realización de esta práctica:
 
+● Megan Squire (2015). Clean Data. Packt Publishing Ltd.
+● Jiawei Han, Micheine Kamber, Jian Pei (2012). Data mining: concepts and techniques.
+Morgan Kaufmann.
+● Jason W. Osborne (2010). Data Cleaning Basics: Best Practices in Dealing with
+Extreme Scores. Newborn and Infant Nursing Reviews; 10 (1): pp. 1527-3369.
+● Peter Dalgaard (2008). Introductory statistics with R. Springer Science & Business
+Media.
+● Wes McKinney (2012). Python for Data Analysis. O’Reilley Media, Inc.
+● Tutorial de Github https://guides.github.com/activities/hello-world.
 
 
 
