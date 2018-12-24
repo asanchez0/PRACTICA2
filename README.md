@@ -30,6 +30,11 @@ conclusiones? ¿Los resultados permiten responder al problema?
 limpieza, análisis y representación de los datos. Si lo preferís, también podéis trabajar
 en Python.
 
+## Distribución de contenidos y formato de entrega
+
+La carpeta <b>data</b> contiene el fichero Excel original y el fichero resultante del preprocesado, sobre el cual se han realizado los análisis.
+La carpeta <b>code</b> contiene el documento PDF que da respuesta a las cuestiones planteadas en este ejercicio, así como el código R que realiza tanto la limpieza de datos como los análisis, además de los informes generados por RStudio.
+
 ## Recursos
 Los siguientes recursos han sido útiles para la realización de esta práctica:
 
